@@ -53,6 +53,6 @@
 ## TRANSISI CARD
 > Lihat transisinya seperti membalik kartu
 ![ALt Text](https://github.com/rendiwibawa/CHALENGE-WEB-COVID19/blob/master/SS-Web%20Corona/17.JPG)
-## DETAIL DATA PASIEN
+## DETAIL DATA PASIEN.
 > Akan menampilkan biodata dan tombol sosial media developer
 ![ALt Text](https://github.com/rendiwibawa/CHALENGE-WEB-COVID19/blob/master/SS-Web%20Corona/18.JPG)
